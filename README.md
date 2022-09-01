@@ -1,12 +1,14 @@
-<h3> Hello </h3>
+<code><img height="" src="All items/image/HK.jpg" alt="hk"></code>
+
+# Hello
 
 # Here's who I am & what I do 
 I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding.
 
 
-Hobbies
+# Hobbies
 Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photography, Traveling.
-
+#
 Programming languages & apps ​​that I know
 
 <code><img height="34" src="All items/icons/html.png" alt="HTML"></code>
