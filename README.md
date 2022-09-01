@@ -1,25 +1,16 @@
-
-
 <code><img height="" src="All items/image/HK.jpg"  ></code>
 
-<style>
+# Hello
 
-.h1_ {
-  text-align: center;
-  text-transform: uppercase;
-}
+# Here's who I am & what I do 
+<h3> I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding. </h3>
 
-</style>
-
-<h1 class="h1_" > Here's who I am & what I do </h1>
-
-
-
-# I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding.
+#
 
 # Hobbies
+<h3> Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photography, Traveling. </h3>
 
-# Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photography, Traveling.
+# 
 
 # Programming languages & apps ​​that I know
 
