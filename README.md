@@ -1,5 +1,3 @@
-<code><img height="" src="All items/image/HK.jpg"  ></code>
-
 # Hello
 
 # Here's who I am & what I do 
