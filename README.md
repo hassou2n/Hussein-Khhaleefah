@@ -1,6 +1,6 @@
 
 
-<code><img height="" src="HK.jpg"  ></code>
+<code><img height="" src="All items/image/HK.jpg"  ></code>
 
 <style>
 
@@ -23,13 +23,12 @@
 
 # Programming languages & apps ​​that I know
 
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/7815359561655819083-512.png" alt="HTML"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/11504549271655819083-512.png" alt="CSS"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/19107553571655819084-512.png" alt="JavaScript"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" alt="git"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/1567846751655819083-512.png" alt="DATABASES"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/3516432171640067947-512.png" alt="docker"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png" alt="node"></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/450475341548218196-512.png" alt="knex"></code>
-<code><img height="64" src=""></code>
-<code><img height="64" src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-512.png" alt="react"></code>
+<code><img height="64" src="All items/icons/html.png" alt="HTML"></code>
+<code><img height="64" src="All items/icons/css.png" alt="CSS"></code>
+<code><img height="64" src="All items/icons/JavaScript.png" alt="JavaScript"></code>
+<code><img height="64" src="All items/icons/git.png" alt="git"></code>
+<code><img height="64" src="All items/icons/DATABASES.png" alt="DATABASES"></code>
+<code><img height="64" src="All items/icons/docker.png" alt="docker"></code>
+<code><img height="64" src="All items/icons/node.png" alt="node"></code>
+<code><img height="64" src="All items/icons/knex.png" alt="knex"></code>
+<code><img height="64" src="All items/icons/react.png" alt="react"></code>
