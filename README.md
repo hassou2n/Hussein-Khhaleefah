@@ -1,6 +1,6 @@
 <h3> Hello </h3>
 
- Here's who I am & what I do 
+# Here's who I am & what I do 
 I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding.
 
 
