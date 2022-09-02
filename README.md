@@ -23,7 +23,7 @@ Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photo
 <code><img height="34" src="All items/icons/heroku.png" alt="heroku"></code>
 <code><img height="34" src="All items/icons/storybook.svg" alt="storybook"></code>
 <code><img height="34" src="All items/icons/figma.png" alt="figma"></code>
-<code><img height="34" src="All items/icons/jira.png" alt="jira"></code>
+<code><img height="34" src="All items/icons/jira.svg" alt="jira"></code>
 <code><img height="34" src="All items/icons/visual studio code.png" alt="visual studio code"></code>
 <code><img height="34" src="All items/icons/procreate.png" alt="procreate"></code>
 <code><img height="34" src="All items/icons/affinity designer.png" alt="affinity designer"></code>
