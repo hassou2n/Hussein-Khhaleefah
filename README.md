@@ -5,11 +5,10 @@
 # Here's who I am & what I do 
 I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding.
 
-
-# Hobbies
+# HOBBIES
 Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photography, Traveling.
 #
-# Programming languages & apps ​​that I know
+# SKILLS
 
 <code><img height="34" src="All items/icons/html.png" alt="HTML"></code>
 <code><img height="34" src="All items/icons/css.png" alt="CSS"></code>
