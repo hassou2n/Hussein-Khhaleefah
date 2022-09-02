@@ -16,6 +16,7 @@ Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photo
 <code><img height="34" src="All items/icons/git.png" alt="git"></code>
 <code><img height="34" src="All items/icons/DATABASES.png" alt="DATABASES"></code>
 <code><img height="34" src="All items/icons/docker.png" alt="docker"></code>
+<code><img height="34" src="All items/icons/MongoDB.svg" alt="MongoDB"></code>
 <code><img height="34" src="All items/icons/node.png" alt="node"></code>
 <code><img height="34" src="All items/icons/postman.svg" alt="postman"></code>
 <code><img height="34" src="All items/icons/knex.png" alt="knex"></code>
