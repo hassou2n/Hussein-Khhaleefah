@@ -1,13 +1,17 @@
-<code><img height="" src="All items/image/HK.jpg" alt="hk"></code>
+<!-- @format -->
 
 # Hello
 
-# Here's who I am & what I do 
+# Here's who I am & what I do
+
 I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding.
 
 # HOBBIES
+
 Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photography, Traveling.
+
 #
+
 # SKILLS
 
 <code><img height="33" src="All items/icons/html.png" alt="HTML"></code>
@@ -26,5 +30,3 @@ Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photo
 <code><img height="33" src="All items/icons/figma.png" alt="figma"></code>
 <code><img height="33" src="All items/icons/jira.svg" alt="jira"></code>
 <code><img height="33" src="All items/icons/visual studio code.png" alt="visual studio code"></code>
-<code><img height="33" src="All items/icons/procreate.png" alt="procreate"></code>
-<code><img height="33" src="All items/icons/affinity designer.png" alt="affinity designer"></code>
