@@ -2,17 +2,20 @@
 
 # Hello
 
-# Here's who I am & what I do
+My name is Hussein, a Front-end Developer with good knowledge of a JavaScript full-stack (React, NodeJS, MySQL). I'm in love with coding.
 
-I'm Front-end Developer, functioning on to be a Full-stack Developer, I'm in love with coding.
 
-# HOBBIES
+## What I'm currently learning
+<code><img height="33" src="All items/icons/typescript.png" alt="typescript"></code>
+<code><img height="33" src="All items/icons/tailwind.png" alt="tailwind"></code>
 
-Drawing (hand-drawn sketch & digital), Adventure, Go Kart Racing, Fishing, Photography, Traveling.
 
-#
+## Hobbies
 
-# SKILLS
+[Drawing (hand-drawn sketch & digital)](https://www.behance.net/) (⚠️ Add some examples here ⚠️), Adventure, Go Kart Racing, Fishing, Photography, Traveling.
+
+
+## Skills
 
 <code><img height="33" src="All items/icons/html.png" alt="HTML"></code>
 <code><img height="33" src="All items/icons/css.png" alt="CSS"></code>
